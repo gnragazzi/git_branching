@@ -2,3 +2,4 @@ repositorio para trabajar a la par de la lectura del capítulo "Git Branching" d
 ***
 main
 fixing
+main2
